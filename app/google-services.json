@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897516619166",
+    "project_id": "smartchat-d30af",
+    "storage_bucket": "smartchat-d30af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897516619166:android:f87b3f949971682ba2428f",
+        "android_client_info": {
+          "package_name": "com.example.smartchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897516619166-kr57rvptt73sn2onpfjrkt2qg01jv3dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartchat",
+            "certificate_hash": "fb047c2504fb51bdf73af101bf4de93f74d0e105"
+          }
+        },
+        {
+          "client_id": "897516619166-s2l4s20mlg6qs19on4nfiobf7302m6v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYA-ouwy8surqTrZBdp4iuJLjbn0LuLhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897516619166-s2l4s20mlg6qs19on4nfiobf7302m6v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

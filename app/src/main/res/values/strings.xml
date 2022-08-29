@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmartChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="miscellaneous">miscellaneous</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="add_url">Add URL</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="select">Select</string>
+    <string name="provide_your_account_s_email_for_which_you_want_to_reset_your_password">Provide your account\'s email for which you want to reset your password</string>
+    <string name="email">Email</string>
+    <string name="edit_profile_info">Edit Profile Info</string>
+    <string name="virat_kohli">Virat Kohli</string>
+    <string name="notes">Notes</string>
+    <string name="profile">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="send_otp">Send otp</string>
+    <string name="messages">Messages</string>
+    <string name="daytext">Light Mode</string>
+    <string name="nighttext">Dark Mode</string>
+    <string name="all_rights_are_reserved">All rights are reserved #2021.</string>
+
+    <string-array name="themes">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+    <string name="title_activity_note_image_viewer">NoteImageViewer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="note_image">Note Image</string>
+    <string name="co_nde">CO\nDE</string>
+</resources>

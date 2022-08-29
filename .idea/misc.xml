@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/backcircle.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/background_cocode.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/button_3.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/chat_background.xml" value="0.152" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/ic_plus.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/ic_user.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/profile_btn_background.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable-v24/progress.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/back_note_color_1.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/back_subtitle_indecator.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/backgound_add_btn.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/backgound_done_btn.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_miscellneous.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_note.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_seclection.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/background_update.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/btn2_back.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/btn_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/cicle_sendbtn.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/circle_bg.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/circle_shimrecycle.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_add_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_arrow.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_back_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_draw.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_image.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14375" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_paper_plane.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_smartphone.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/ic_twotone_error_outline_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/layout_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/receive_drawable.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/sent_drawable.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/sign_in_back.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/sign_in_btn1.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/signupprogress.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/skills_box.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/text_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/text_box.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/drawable/white_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/font/rammetto_one.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/font/roboto_bold.xml" value="0.275" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout-land/activity_profile_set_up.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout-v28/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_chat_page.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_edit_notes.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_email_success.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_forget_password_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_forgot_pass_word.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_make_selection.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_note_deatail.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_note_image_viewer.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_note_image_viewer2.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_password_success.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_phone_number.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_phone_number_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_phone_password_recovery.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_profile_main.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_profile_set_up.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_set_new_password.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_skills_in.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_view_image.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/activity_well_come_screen.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/bottom_sheet_dia_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/content_note_image_viewer.xml" value="0.2625" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/delete_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/demo_layout.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/demo_status.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_chat.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_first.xml" value="0.2625" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_interests.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_notes.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_profile2.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_second.xml" value="0.2625" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/fragment_skills.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/item_container_interests.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/item_container_note.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/item_container_skills.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/item_receive.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/item_send.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_NoteBottomSheet.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_add_url.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_Skills.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_about.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_course.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_interests.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_name.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_password.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_profession.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_edit_skills.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_logout.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_notebottomsheet.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/layout_notebottomsheet1.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/progress.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/row_conversation.xml" value="0.264" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/layout/row_conversation_top.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/menu/menu_settings.xml" value="0.25" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.136" />
+        <entry key="..\:/Users/nares/AndroidStudioProjects/SmartChat/app/src/main/res/xml/progress.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

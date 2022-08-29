@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:diagonal="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/colorWhite"
+tools:context=".Activities.UserProfileActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite">
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            diagonal:layout_constraintStart_toStartOf="parent"
+            diagonal:layout_constraintTop_toTopOf="parent"
+            diagonal:srcCompat="@drawable/arrow_back" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            diagonal:layout_constraintEnd_toEndOf="parent"
+            diagonal:layout_constraintStart_toStartOf="parent"
+            diagonal:layout_constraintTop_toTopOf="parent">
+
+            <com.github.florent37.diagonallayout.DiagonalLayout
+                android:id="@+id/diagonalLayout"
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+
+                <ImageView
+                    android:id="@+id/coverImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop" />
+
+            </com.github.florent37.diagonallayout.DiagonalLayout>
+
+        </LinearLayout>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginStart="16dp"
+            android:padding="@dimen/_2sdp"
+            android:src="@drawable/ic_user"
+            diagonal:civ_border_color="@color/colorSearchIcon"
+            diagonal:civ_border_width="@dimen/_1sdp"
+            diagonal:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+            diagonal:layout_constraintStart_toStartOf="parent"
+            diagonal:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Naresh  N S"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="bold"
+            diagonal:layout_constraintStart_toStartOf="@+id/profile_image"
+            diagonal:layout_constraintTop_toBottomOf="@+id/profile_image" />
+
+        <TextView
+            android:id="@+id/professionB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="Developer"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            diagonal:layout_constraintStart_toStartOf="@+id/userName"
+            diagonal:layout_constraintTop_toBottomOf="@+id/userName" />
+
+        <View
+            android:id="@+id/view7"
+            android:layout_width="80dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="16dp"
+            android:background="@color/teal_700"
+            diagonal:layout_constraintStart_toStartOf="@+id/professionB"
+            diagonal:layout_constraintTop_toBottomOf="@+id/professionB" />
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout66"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:background="@drawable/background_note"
+            android:gravity="center"
+            diagonal:layout_constraintEnd_toEndOf="parent"
+            diagonal:layout_constraintStart_toStartOf="parent"
+            diagonal:layout_constraintTop_toBottomOf="@+id/view7">
+
+            <TextView
+                android:id="@+id/about"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:textColor="@color/colorDefaultNoteColor"
+                android:gravity="center"
+                android:text="Any fool can write code that a computer can understand. but Good programmers write code that humans can understand."
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout96"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background_note"
+            android:gravity="center"
+            diagonal:layout_constraintEnd_toEndOf="@+id/linearLayout66"
+            diagonal:layout_constraintStart_toStartOf="@+id/linearLayout66"
+            diagonal:layout_constraintTop_toBottomOf="@+id/linearLayout66">
+
+            <TextView
+                android:id="@+id/Course"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:gravity="center"
+                android:textColor="@color/colorDefaultNoteColor"
+                android:text="computer Science"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/SkillsBtn"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@android:color/transparent"
+            diagonal:layout_constraintBottom_toBottomOf="@+id/linearLayout7"
+            diagonal:layout_constraintEnd_toEndOf="@+id/linearLayout7"
+            diagonal:layout_constraintStart_toStartOf="@+id/linearLayout7"
+            diagonal:layout_constraintTop_toTopOf="@+id/linearLayout7" />
+
+        <Button
+            android:id="@+id/InterestBtn"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/flag_transparent"
+            diagonal:layout_constraintBottom_toBottomOf="@+id/linearLayout8"
+            diagonal:layout_constraintEnd_toEndOf="@+id/linearLayout8"
+            diagonal:layout_constraintStart_toStartOf="@+id/linearLayout8"
+            diagonal:layout_constraintTop_toTopOf="@+id/linearLayout8" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout7"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_80sdp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background_note"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/_10sdp"
+            diagonal:layout_constraintStart_toStartOf="@+id/linearLayout96"
+            diagonal:layout_constraintTop_toBottomOf="@+id/linearLayout96">
+
+            <TextView
+                android:id="@+id/mobileText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_medium"
+                android:text="Skills"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                android:id="@+id/skil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Developer"
+                android:textColor="@color/colorDefaultNoteColor"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout8"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_80sdp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background_note"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/_10sdp"
+            diagonal:layout_constraintEnd_toEndOf="@+id/linearLayout96"
+            diagonal:layout_constraintTop_toBottomOf="@+id/linearLayout96">
+
+            <TextView
+                android:id="@+id/mobileTet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_medium"
+                android:text="Interest"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                android:id="@+id/mobieTex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Developer"
+                android:textColor="@color/colorDefaultNoteColor" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>
