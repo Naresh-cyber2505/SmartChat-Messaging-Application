@@ -1,2 +1,3 @@
 # SmartChat-Messaging-Application
-![1](https://user-images.githubusercontent.com/77671842/187272374-a665a2a6-4e6c-41ea-b44a-02e55f766f87.png)
+
+![1](https://user-images.githubusercontent.com/77671842/187274522-c57fb7db-9e0a-45e2-81bb-487230f8915b.png)
